@@ -2,7 +2,7 @@
 ## An Introduction and Implementation of GANs
 
 
-__Included in the blog post, there are two parts for this assignment:__   
+__Included in the blog posts, you will find two parts:__   
 In Part I, I will provide you an overview of the Generative Adversarial Networks(GANs). In Part II, you will follow me to implement GANs techniques via an interesting synthetic image generation case. Tensorflow will be used as the backend.
 
 __To run the model:__   
